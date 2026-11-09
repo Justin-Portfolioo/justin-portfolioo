@@ -1,16 +1,13 @@
-## Hi there 👋
+# Data Analytics Portfolio
 
-<!--
-**Justin-Portfolioo/justin-portfolioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DSS 445 Midterm Presentation
+- [View Midterm Presentation (PPTX)](DSS445Midterm.pptx)
+- [View Midterm R Script](Midterm.R)
 
-Here are some ideas to get you started:
+## Previous Class Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soccer Optimization
+- [View Soccer Optimization Project](SoccerOptimization.ipynb)
+
+## Tableau Public
+- [Visit My Tableau Public Profile](https://public.tableau.com/app/profile/justin.mcquaite/vizzes)
